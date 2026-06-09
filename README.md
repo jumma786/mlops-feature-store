@@ -139,10 +139,10 @@ make serve
 | 4 | Hyperparameter Tuning | [mlops-hyperparameter-tuning](https://github.com/jumma786/mlops-hyperparameter-tuning) | ✅ |
 | 5 | Model Serving | [mlops-model-serving](https://github.com/jumma786/mlops-model-serving) | ✅ |
 | **6** | **Feature Store** | [mlops-feature-store](https://github.com/jumma786/mlops-feature-store) | ✅ This repo |
-| 7 | Model Monitoring | mlops-model-monitoring | 🔜 |
-| 8 | A/B Testing | mlops-ab-testing | 🔜 |
-| 9 | Airflow Orchestration | mlops-airflow-pipeline | 🔜 |
-| 10 | Kubernetes Platform | mlops-k8s-platform | 🔜 |
+| 7 | Model Monitoring | [mlops-model-monitoring](https://github.com/jumma786/mlops-model-monitoring) | ✅ |
+| 8 | A/B Testing | [mlops-ab-testing](https://github.com/jumma786/mlops-ab-testing) | ✅ |
+| 9 | Airflow Pipeline | [mlops-airflow-pipeline](https://github.com/jumma786/mlops-airflow-pipeline) | ✅ |
+| 10 | Kubernetes Platform | [mlops-k8s-platform](https://github.com/jumma786/mlops-k8s-platform) | ✅ |
 
 ---
 
