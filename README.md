@@ -6,7 +6,7 @@
 ![Parquet](https://img.shields.io/badge/Storage-Parquet-orange)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-> **Part of the MLOps Portfolio Series** — Project 6 of 10  
+> **Part of the [MLOps Portfolio Series](https://github.com/jumma786/mlops-portfolio)** — Project 6 of 10  
 > Feature store built on UCI Online Retail II (1M+ rows) — computes RFM features, customer stats, and segment labels, stores as Parquet offline store, and serves via FastAPI.
 
 ---
